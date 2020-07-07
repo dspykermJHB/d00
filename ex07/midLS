@@ -1,1 +1,1 @@
-ls -A -R -m -U -p
+ls -A -R -m -U -p -i
